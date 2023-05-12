@@ -1,0 +1,772 @@
+SZAKDOLGOZAT
+
+DÉNES DORKA
+2023
+
+BUDAPESTI CORVINUS EGYETEM
+
+DIGITÁLIS ÁTALAKULÁS A
+
+KISKERESKEDELMI SZEKTORBAN
+
+DÉNES DORKA
+NEMZETKÖZI GAZDÁLKODÁS
+2023
+
+SZAKSZEMINÁRIUM-VEZETŐ:
+PISTRUI BENCE LÁSZLÓ
+
+1
+
+Tartalomjegyzék
+
+1
+
+1. Bevezetés
+A digitális átalakulás jelentősége tagadhatatlan a modern világban, hiszen mint globális
+folyamat egyaránt érinti a vállalkozásokat, kormányzatokat és egyéneket. Hatással van a
+kiskereskedelmi szektorra is, amely egyebek mellett a kereskedelmi folyamatok, csatornák, a
+vásárlói magatartás és az üzleti modellek átalakulásában nyilvánul meg (Ferreira, 2020).
+A digitális átalakulás hatásai nem korlátozódnak a technológiai innovációra, a folyamat hatással
+van az üzleti élet számos szegmensére: a munkaerőpiacra, az üzleti modellekre, a szabályozásra
+és a fogyasztói magatartásra is. Ezen változások megértése a döntéshozók számára
+elengedhetetlen feladat, hiszen a jövőbeli prosperitás alapjait teremthetik meg. A digitális
+átalakulás hozzájárul többek között a vállalatok versenyképességnek megőrzéséhez, a
+termelékenység javításához, a költségcsökkentéshez, az innovációs képesség fejlesztéséhez, a
+potenciális kockázatok és kihívások azonosításához. (Reis et al., 2018)
+1.2. Digitális átalakulás szakirodalma
+A digitalizáció kérdésével az 1940-es és 1950-es években kezdtek foglalkozni, amikor az első
+számítógépek és információs rendszerek megjelentek. Azonban a fogalom és a jelenség igazi
+előtérbe kerülése az 1980-as években történt, amikor a személyi számítógépek elterjedtek, és
+az internet fejlődése egyre nagyobb mértékben megkezdődött. (Manning, 2009)
+A digitális átalakulás szakirodalma az elmúlt évtizedekben jelentős fejlődésen ment keresztül,
+amely a technológiai innovációk és az információs társadalom kialakulásának köszönhető. A
+szakirodalom olyan sokrétű témákat ölel fel, mint az ember-gép kapcsolat, kiberbiztonság,
+adatvédelem és mesterséges intelligencia, melyek közül néhány meghatározó példát is
+bemutatok.
+Az egyik úttörő mű ezen a területen Bush (1945) "As We May Think" című írása, amely a
+számítógépes információkeresésről és tárolásról szól, és maradandó inspirációul szolgált a jövő
+irodalmának. (Manning, 2009)
+A technológia fejlődésével az emberek egyre szorosabb kapcsolatba kerülnek a gépekkel, amely
+befolyásolja a munkavégzést, a kommunikációt és a mindennapi életet. Egyik meghatározó mű
+ebben a témakörben Sherry Turkle "Alone Together" (2011) című könyve, amely a személyes
+kapcsolatok és a technológia összefüggéseit vizsgálja, és felveti az emberi interakciók digitális
+átalakulásának kérdéseit.
+
+2
+
+Az internetes kommunikáció és az adatok tárolása számos kiberbiztonsági kihívással jár, így ez
+a témakör egyre nagyobb jelentőséget kap a digitális átalakulás szakirodalmában. Bruce
+Schneier "Data and Goliath" (2015) című műve például az adatvédelem és a kiberbiztonság
+kérdéseit tárgyalja, felhívva a figyelmet a személyes adatok védelmének fontosságára és a
+kormányzati szabályozás szerepére.
+A mesterséges intelligenciáról (MI) és a gépi tanulásról szintén sokat kutatott téma. Az MI
+fejlődése és alkalmazása során új lehetőségek és kihívások merülnek fel, amelyekre a
+szakirodalom igyekszik válaszokat adni. Például Max Tegmark "Life 3.0: Being Human in the
+Age of Artificial Intelligence" (2017) című könyve a mesterséges intelligencia jövőbeli hatásait
+és etikai kérdéseit vizsgálja, miközben a gépi tanulás és az MI alkalmazásainak társadalmi,
+gazdasági és politikai következményeit elemzi.
+A digitális átalakulás szakirodalma továbbá foglalkozik a társadalmi és gazdasági változásokkal
+is, amelyek a technológiai fejlődés eredményeként következnek be. Az ipari forradalomtól a
+digitális korig terjedő gazdasági átalakulásokat és hatásokat többek között Carlota Perez
+"Technological Revolutions and Financial Capital" (2002) című könyve tárgyalja, amely a
+technológiai innovációk és a gazdasági növekedés kapcsolatát elemzi.
+A digitalizáció munkaerőpiacra és a munkahelyekre gyakorolt hatásai is gyakran kutatott téma,
+különös tekintettel a gépek és az MI által felváltott munkakörökre. Martin Ford "The Rise of
+the Robots" (2015) című könyve az automatizáció és a mesterséges intelligencia hatását
+vizsgálja a munkavállalókra és a munkaerőpiacra, különös tekintettel a technológia által
+létrehozott új munkalehetőségekre és kihívásokra.
+A felsorolt példák csupán egy részét képezik annak a sokrétű és dinamikus területnek, amely a
+
+digitális átalakulás szakirodalmát alkotja. A folyamatos technológiai fejlődés és a társadalmi-
+gazdasági kihívások miatt ez a szakirodalom továbbra is növekedni és átalakulni fog,
+
+hozzájárulva a digitális átalakulás megértéséhez és annak hatékonyabb kezeléséhez.
+2. Digitizáció, digitalizáció és digitális átalakulás
+A digitizáció, digitalizáció és digitális átalakulás kifejezéseket gyakran összekeverik vagy
+szinonimaként használják őket, mégis három különböző fogalomról van szó, amelyek bár
+szoros kapcsolatban vannak egymással, mégis eltérő jelentéssel bírnak. A szakirodalom a
+három fogalmat a hatókörük alapján igyekszik leírni. (Bumann, 2019)
+
+3
+
+2.1.Digitizáció
+A digitizáció olyan folyamat, amely során analóg információkat, például szövegeket, képeket,
+hangokat vagy videókat, átalakítanak digitális formába. A digitális adatokat bináris kódokká
+alakítják, amelyeket számítógépek és más digitális eszközök könnyen feldolgozhatnak,
+tárolhatnak és megoszthatnak. A digitizáció lehetővé teszi az információ gyorsabb és
+hatékonyabb kezelését, valamint a tárolás és az elérés egyszerűsítését. (Gobble, M. M., 2018)
+A szemléltetés érdekében vegyük példának egy könyvtárat. Egy könyvtárban számos analóg
+dokumentum (könyvek, kéziratok, fényképek stb.) található. A digitizáció során ezeket a
+dokumentumokat szkennelik és digitális formában tárolják. Ezt követően a digitális
+dokumentumokat könnyen megoszthatják, például online adatbázisokban, és könnyen
+hozzáférhetővé tehetik a felhasználók számára az interneten keresztül. A létrejövő adatbázisok
+segítségével a kereshetőség is felgyorsul.
+A digitizáció elsősorban az információ átalakítására fókuszál és nem a folyamatokéra, azaz nem
+változtatja meg magát az üzletet, a digitalizáció fogalma itt jön képbe (J Bloomberg, 2018).
+2.2.Digitalizáció
+A digitalizáció a digitális technológiák alkalmazását és integrációját jelenti a folyamatok,
+termékek és üzleti modellek terén, hogy hatékonyabbá, versenyképesebbé és innovatívabbá
+váljanak. A digitalizáció magában foglalja az üzleti folyamatok és a szervezeti struktúrák
+átalakítását, valamint a digitális eszközök és technológiák alkalmazását új bevételi források
+kiaknázásának és az értékteremtés elősegítése érdekében. (J Bloomberg, 2018)
+2.3.Digitális átalakulás
+A digitális átalakulás a legtágabb fogalom ezek közül, mely a szervezetek átfogó, fundamentális
+átalakítását jelenti olyan digitális technológiák integrálásával, mint például a „dolgok
+internete”, robotika, 3D nyomtatás, mesterséges intelligencia, big data, blokklánc vagy
+felhőalapú számítástechnika. Ezen átalakulás célja új értékek biztosítása az ügyfelek és a
+munkavállalók számára egy folyamatosan változó és fejlődő digitális gazdaságban. (Ulas,
+2019)
+A digitális átalakulás túlmutat a technológiai változásokon, digitalizációs projekteken és az
+üzleti folyamatokon, hiszen magában foglalja a szervezetek belső és külső kapcsolatainak,
+értékrendjének és működésének átalakítását is, hogy alkalmazkodjanak a digitális világ által
+támasztott új kihívásokhoz és lehetőségekhez. A digitális átalakulás megköveteli, hogy a
+
+4
+
+szervezet összességében jobban kezelje a változásokat, lényegében a változás alapkompetencia
+lesz, mivel a vállalkozás végponttól végpontig ügyfélközpontúvá válik. Az agilitás megkönnyíti
+a folyamatban lévő digitalizációs kezdeményezéseket és projekteket. (J Bloomberg, 2018)
+3. A digitális átalakulás technológiai aspektusa
+A digitalizáció nagyon összetett technológiai architektúrával rendelkezik (Frank et al., 2019).
+A digitális átalakulás során számos kulcsfontosságú technológia játszik szerepet, amelyek
+összetett rendszereket hoznak létre, és jelentős hatással vannak a társadalomra. Ebben a
+fejezetben bemutatom és definiálom a legfontosabb technológiákat, és csoportosítom is őket a
+könnyebb átláthatóság érdekében. A kategóriák kiválasztásánál a technológiák alapvető céljait
+és alkalmazási területeit vettem figyelembe. Ezáltal az adatkezelés és elemzés, a kommunikáció
+és kapcsolatok, valamint az eszközök és automatizáció kategóriákba sorolt technológiák
+hasonló célokat szolgálnak és együttesen segítik a digitális átalakulást.
+3.1.Adatkezelés és elemzés technológiái
+Ebben a kategóriában olyan technológiákat soroltam fel, amelyek célja az adatok tárolása,
+kezelése, elemzése és felhasználása. Ezek a technológiák szerves részét képezik a
+digitalizációnak, mivel a modern társadalom és gazdaság alapvetően az adatokra épül
+(Debanjan, 2020). Az adatkezelés és elemzés technológiái lehetővé teszik a szervezetek
+számára, hogy értékes információkat nyerjenek és jobb döntéseket hozzanak.
+Az adatbázis-kezelő rendszerek (Database Management Systems, röviden DBMS) olyan
+szoftvereszközök, amelyek lehetővé teszik az adatok tárolását, szervezését, kezelését,
+lekérdezését és módosítását egy strukturált és hatékony módon. Az adatbázis-kezelő rendszerek
+célja, hogy megkönnyítsék a felhasználók és alkalmazások számára az adatokhoz való
+hozzáférést, biztosítsák az adatok integritását, biztonságát és konzisztenciáját, valamint
+lehetővé tegyék az adatok közötti kapcsolatok és összefüggések felderítését. (IBM, n.d.)
+A Big Data a hatalmas mennyiségű, változatos és gyorsan növekvő adatállományokra utal,
+amelyeket a hagyományos adatkezelő eszközök és technológiák nehezen tudnak feldolgozni
+(Hare et al., 2022). A Big Data jellemzői között szerepel a nagy adatmennyiség, a változatos
+adatforrások és adattípusok, valamint a gyors adatgenerálás és -feldolgozás (Laney, 2001). A
+Big Data-elemzés pedig az a módszer, amely a felhalmozott adatok kiértékelésére szolgál, ezek
+az adatok nagyon sok forrásból származhatnak. Ez a technológia lehetővé teszi a vállalatok
+számára többek között az adatvezérelt döntéshozatalt, a bevételek előrejelzését vagy a stabil
+
+5
+
+készletszintek fenntartását, a Big Data elemzés emellett segít a vállalatoknak feltérképezni a
+fogyasztói magatartást és ezáltal például a megfelelő marketingstratégia kialakítását (Hare et
+al., 2022).
+3.2.Kommunikáció és kapcsolatok technológiái
+A digitális átalakulás egyik legfontosabb aspektusa a kommunikáció és az információáramlás.
+Ebben a kategóriában olyan technológiákat soroltam fel, melyek elősegítik az eszközök és
+rendszerek közötti kapcsolatokat, valamint az adatok gyors és megbízható átvitelét.
+Az IoT, vagy az Internet of Things (Dolgok Internete) olyan hálózati rendszert jelent, amelyben
+különböző fizikai eszközök, szenzorok, járművek, épületek és egyéb objektumok
+internetkapcsolattal rendelkeznek, és képesek adatokat gyűjteni, megosztani és kommunikálni
+egymással anélkül, hogy emberi beavatkozásra lenne szükség. Az IoT célja, hogy
+intelligensebbé és hatékonyabbá tegye a különböző rendszereket és folyamatokat a digitalizált
+világban. Példák a felhasználásra az okos otthonok, összekapcsolt járművek vagy ellátási lánc
+menedzsment. (Nagy, 2019)
+A felhőalapú számítástechnika a különböző szolgáltatások elérhetővé tétele az interneten
+keresztül. Ezek lehetnek például kiszolgálók, adatbázisok, adat tárolás, hálózatkezelés vagy
+
+szoftverek. Ahelyett, hogy a fájlokat egy saját merevlemezen vagy helyi tárolóeszközön tar-
+taná, a felhőalapú tárolás lehetővé teszi, hogy azokat egy távoli adatbázisba mentse. Amíg egy
+
+elektronikus eszköz hozzáfér az internethez, addig hozzáfér az adatokhoz és a futtatásukhoz
+szükséges szoftverprogramokhoz is. (Frankenfield, 2021)
+Az 5G hálózatok az ötödik generációs vezeték nélküli kommunikációs technológiát jelentik,
+amely a mobilhálózatok és az internetszolgáltatások fejlődésének legújabb szakaszát képviseli.
+Az 5G célja, hogy javítsa a sebességet, kapacitást, biztonságot és az eszközök közötti
+kommunikáció hatékonyságát, miközben alacsonyabb késleltetést és energiafogyasztást
+biztosít. (McKinsey & Company, 2022)
+A virtuális valóság (Virtual Reality, röviden VR) szintén egy fontos technológia a digitalizáció
+területén. A VR eszközök lehetővé teszik a felhasználók számára, hogy immerszív és interaktív
+3D-s környezetekben tapasztaljanak és interakcióba lépjenek. A VR technológiát a
+szórakoztatóiparban, oktatásban, egészségügyben, építészetben és sok más területen
+alkalmazzák. (Hayes, 2020)
+
+6
+
+A kiterjesztett valóság (AR) a valós fizikai világ továbbfejlesztett változata, amely digitális
+
+vizuális elemek, hang vagy más érzékszervi ingerek felhasználásával valósul meg a techno-
+lógia segítségével. (Hayes, 2020)
+
+A blockchain egy elosztott, decentralizált adatbázis-technológia, amely tranzakciókat vagy
+adatokat tárol blokkok formájában egy láncban (blockchain). A blockchain célja, hogy
+biztosítsa az adatok átláthatóságát, megbízhatóságát és biztonságát anélkül, hogy központi
+hitelesítő szervre lenne szükség. A blockchain technológia számos területen használható,
+például kriptovaluták, ellátási lánc nyomon követése vagy digitális identitás és hitelesítés.
+3.3.Eszközök és automatizáció technológiái
+Ez a kategória a mesterséges intelligencia, gépi tanulás, 3D nyomtatás és egyéb technológiákra
+összpontosít, amelyek a munkafolyamatok, a termelés és a szolgáltatások automatizálását és
+optimalizálását célozzák. A digitális átalakulás keretében az automatizáció és az intelligens
+eszközök hozzájárulnak többek között a hatékonyság növeléséhez, a költségek csökkentéséhez
+és az innováció elősegítéséhez.
+A mesterséges intelligencia (Artificial Intelligence, AI) és a gépi tanulás (Machine Learning,
+ML) két összefüggő, de mégis különálló terület a számítástechnika és az informatika világában.
+A mesterséges intelligencia (AI) egy szélesebb fogalom, amely azon számítógépes rendszerekre
+vonatkozik, amelyek képesek az emberi intelligencia által végzett feladatokat utánozni, mint
+például a tanulás, a problémamegoldás, a döntéshozatal és a nyelvi megértés. Az AI célja, hogy
+olyan algoritmusokat és módszereket fejlesszen ki, amelyek lehetővé teszik a gépek számára,
+hogy önállóan dolgozzanak és intelligens módon reagáljanak a változó körülményekre. A gépi
+tanulás (ML) az AI egyik ága, amely a gépek képességére koncentrál, hogy önállóan tanuljanak
+és javítsák teljesítményüket az adatokon alapuló tapasztalatokból, anélkül, hogy explicit
+programozásra lenne szükség. A gépi tanulás algoritmusok képesek az adatok mintázatainak
+felismerésére és a megszerzett ismeretek alkalmazására új, ismeretlen adatokkal való munka
+során. Számos felhasználása van ezeknek a technológiáknak, például okos képfelismerés,
+ajánlórendszerek vagy autonóm járművek. (Das et al., 2015)
+A 3D nyomtatás és az additív gyártás kifejezések egyaránt utalnak arra, hogy a terméket úgy
+hoznak létre, hogy a szükséges alapanyagot rétegről rétegre adja hozzá a termelési folyamat
+során. Legfőbb előnyei ennek a gyártási módnak a tervezés szabadsága, a tömeges testreszabás,
+a hulladék minimalizálása, komplex szerkezetek gyártásának képessége, illetve a gyors
+prototípusgyártás. A 3D-s nyomtatás alkalmazása számos iparágban, az autógyártástól kezdve
+
+7
+
+az építőiparig és az orvostechnológiáig, jelentős mértékben javíthatja a termékek minőségét és
+a gyártási folyamatok hatékonyságát. (Ngo et al., 2018)
+4. Mi az a kiskereskedelem és hogyan fejlődött? A szupermarketek megjelenésétől az
+e-kereskedelmen át az omnichannelig
+Ebben a fejezetben definiálom mi a kiskereskedelem és milyen formái vannak, illetve, hogy mi
+jellemzi ezt a szektort. Továbbá bemutatom, hogy az évtizedek során az első modern
+szupermarketek megjelenésétől, hogyan jutottunk el az omnichannel kiskereskedelemig.
+4.1.Mi az a kiskereskedelem?
+A kiskereskedelem olyan gazdasági tevékenység, amely során vállalatok termékeket
+értékesítenek a fogyasztók számára közvetlenül, általában kisebb mennyiségekben és végső
+felhasználás céljából (Kotler et al., 2018). A kiskereskedelmi szektorban számos különböző
+formával találkozhatunk, amelyek a fogyasztói igényeket és elvárásokat tükrözik.
+A hagyományos kiskereskedelmi formák közé tartoznak a szupermarketek, hipermarketek,
+diszkontáruházak és a különböző szaküzletek. A szupermarketek és hipermarketek általában
+élelmiszer és háztartási cikkek széles választékát kínálják (Kotler et al., 2018). Például a Tesco
+és az Auchan ezen típusú áruházak közé tartoznak. A diszkontáruházak alacsonyabb áron
+értékesítenek termékeket, mint a hagyományos kiskereskedők, és például az Lidl vagy a Penny
+Market tekinthető ilyen üzletnek (Britannica, n.d.).
+Az online kiskereskedelmi formák, mint a webáruházak vagy az e-kereskedelem is egyre
+nagyobb teret nyernek napjainkban (Hansen et al., 2021). Az Amazon és az eBay példák erre a
+formára, amelyek lehetővé teszik a termékek és szolgáltatások internetes vásárlását. Az online
+kiskereskedelmi platformok előnye a vásárlók számára a könnyű hozzáférés, a széles
+termékkínálat és az alacsonyabb árak.
+4.2.Kiskereskedelem fejlődése
+
+Olyan technológiák, mint az interaktív kirakatok, a kontaktmentes fizetési eszközök, RFID-
+címkék vagy digitális hűségkártya megoldások egyre elterjedtebbé válnak a kiskereskedelmi
+
+szektorban. A technológia fejlődésével párhuzamosan a fogyasztók igényei is változtak. A
+személyre szabott ajánlatokra, új bolti élményekre és az egyszerűbb, gyorsabb vásárlási
+folyamatokra vágyó fogyasztók új kihívásokat jelentettek a kiskereskedelmi vállalatok
+számára. A vállalatoknak folyamatosan alkalmazkodniuk kell a piaci változásokhoz, ami a
+technológiai fejlődés felgyorsulásához vezetett. (Pantano, 2019)
+
+8
+
+Ahhoz, hogy megértsük a mostani kiskereskedelmi trendeket és technológiákat először
+tekintsük át, hogyan jutottunk el idáig. McKinsey&Company 2017-ben megjelent Future of
+Retail Grocery in a Digital World című jelentésében négy olyan innovációt határozott meg
+melyek nagy hatást gyakoroltak a mai kiskereskedelmi szektor felépítésére.
+Az első szupermarketek a 20. század elején jelentek meg, jelentős változást hozva a
+kiskereskedelembe. Ezt megelőzően a fogyasztók elsősorban kis, specializált üzletekben
+vásároltak, mint például hentesek, zöldségesek és pékségek. 1916-ban Clarence Saunders
+megnyitotta az első önkiszolgáló élelmiszerboltot, a Piggly Wiggly-t. Az innovatív
+üzletkialakítás lehetővé tette a vásárlók számára, hogy maguk válogassanak az áruk között,
+ezáltal idő- és költséghatékonyabbá téve a vásárlást. Ez a modell hamarosan a világ
+szupermarketeinek mintájává vált. (Segal, 2022)
+Ahogy a szupermarketek népszerűsége nőtt, a "minden egy fedél alatt" koncepció elterjedt. A
+hipermarket egy nagy alapterületű kiskereskedelmi üzlet, amely széles választékot kínál
+élelmiszer- és nem élelmiszer-termékekből és célja, hogy az ügyfelek számára egy helyen
+elérhetővé tegyék a legtöbb, napi és hosszú távú vásárláshoz szükséges terméket (Kenton,
+2022). A hipermarket nagy előrelépést jelentettek a helykihasználás, a termelékenység, a
+hatékonyság és a költséggazdálkodás terén. Ez az változás olyan innovációk megjelenéséhez
+vezetett, mint a saját márkás termékek vagy a multilevel marketing, ezek mellett az ellátási
+láncok egyre komplexebbé váltak (Desai et al., 2017). Az áruházak nemcsak átalakították a
+kiskereskedelmi szektort, hanem befolyásolták a fogyasztói kultúrát is, bevezetve a vásárlás
+szabadidős tevékenységként való felfogását (Desai et al., 2017).
+A következő jelentős innováció az e-kereskedelem, más néven elektronikus kereskedelem
+megjelenése volt. Az e-kereskedelem az interneten keresztül történő termékek és szolgáltatások
+vásárlásának és értékesítésének folyamata. Az e-kereskedelem forradalmasította a
+kiskereskedelmet, mivel lehetővé tette a vásárlók számára, hogy egyszerűen és kényelmesen
+böngésszenek és vásároljanak a világ minden tájáról származó termékeket. Az e-kereskedelem
+jelentősen átalakította a kiskereskedelmi üzletmenetet, növelte a globális versenyt és
+befolyásolta a fogyasztói szokásokat, amelyek közül sok vásárló számára a kényelem és a
+gyorsaság lett a legfontosabb tényező. (Guapa, 2014)
+Az omnichannel kiskereskedelem népszerű stratégiává vált a kiskereskedelm új korszakában,
+amikor a digitalizáció, a közösségi média, a big data és más új technológiák alakítják a
+kiskereskedelmi üzleti modelleket. Ez a stratégia lehetővé teszi a vállalatok számára, hogy
+
+9
+
+integrált vásárlási élményt nyújtsanak a fogyasztók számára, összekapcsolva az online és
+offline csatornákat. Az omnichannel kiskereskedelem célja, hogy minden csatornán keresztül
+könnyen elérhetővé tegye a termékeket és szolgáltatásokat, valamint egységes és személyre
+szabott vásárlási élményt biztosítson a fogyasztók számára. (Cai, 2020)
+5. Digitalizációs trendek és projektek a kiskereskedelmi szektorban
+A kiskereskedelmi szektorban zajló digitális átalakulás az elmúlt években gyorsuló ütemben
+zajlott. Az új technológiák és az e-kereskedelem térnyerése, valamint a fogyasztói magatartás
+változása mind hozzájárultak ehhez a folyamathoz. Ebben a fejezetben áttekintem a néhány
+jelentősebb digitális trendet a kiskereskedelmi szektorban, illetve hozok példát sikeres és
+sikertelen digitalizációs projektekre.
+5.1. Digitalizációs trendek
+5.1.1. Mesterséges intelligencia
+A Deloitte előrejelzése alapján a mesterséges intelligencia lesz a 2023-as éve legmeghatározóbb
+digitális trendje, mely komoly változásokat fog okozni a kiskereskedelemben. Legyen szó akár
+a termelékenység növeléséről, az új termékek bevezetéséhez szükséges idő lecsökkentéséről,
+az életkor ellenőrzéséről az önkiszolgáló pénztáraknál és a click & collect oldalakon vagy a
+kreatív folyamatok átalakításáról. Az AI-nak számos felhasználási területe lehet a
+kiskereskedelemben a Deloitte 2023-as jelentésében, ezeket határozta meg:
+1. Személyre szabás: Az AI segítségével személyre szabható a vásárlási élmény az egyes
+vásárlók számára. Például arra használható, hogy a böngészési és vásárlási előzmények,
+valamint a közösségi média aktivitásuk alapján termékeket ajánljon a vásárlóknak.
+2. Előrejelző analitika: Az AI különböző forrásokból származó adatok (például
+ügyféladatok, értékesítési adatok és a közösségi média adatai) elemzésére is
+használható, hogy előrejelzéseket készítsen a vásárlói magatartásról és a piaci
+trendekről. Ez segíthet a kiskereskedőknek abban, hogy megalapozottabb döntéseket
+hozzanak arról, hogy milyen termékeket tartsanak raktáron, hogyan árazzák be őket, és
+hogyan értékesítsék őket.
+3. Készletgazdálkodás: A mesterséges intelligencia felhasználható a készletgazdálkodás
+optimalizálására, például a termékek iránti kereslet előrejelzésére, a készletszintek valós
+idejű nyomon követésére és az átrendezési folyamatok automatizálására.
+
+10
+
+4. Chatbotok: A mesterséges intelligencia olyan chatbotok létrehozására használható,
+amelyek képesek az ügyfelek kérdéseire válaszolni, ajánlásokat adni és akár
+tranzakciókat lebonyolítani anélkül, hogy emberi segítségre lenne szükség.
+5. Ismétlődő feladatok automatizálása: Az AI segíthet az ismétlődő, hétköznapi feladatok
+automatizálásában, mint például az árellenőrzés, készletellenőrzés és még sok más.
+6. Képfelismerés: Felhasználható az online kiskereskedelemben a termékek automatikus
+képfelismerésére, ami megkönnyíti a termékkeresést és a kategóriák közötti böngészést.
+5.1.2. Omnichannel kereskedelem
+Mint korábban már írtam, az omnichannel kiskereskedelmi stratégia egy új kiskereskedelmi
+trend, amely átalakította a kiskereskedelmi iparágat azáltal, hogy az összes vásárlói érintkezési
+pontot egyetlen holisztikus élménnyé egyesíti. Az omnichannel kereskedelem célja, hogy a
+vásárlói élmény egységes legyen a különböző értékesítési csatornák között, legyen szó fizikai
+boltokról, online platformokról vagy mobilalkalmazásokról. Az üzleteknek egyre inkább
+integrálniuk kell az értékesítési csatornáikat, hogy a fogyasztók könnyedén választhassanak a
+különböző vásárlási lehetőségek között. Az omnichannel megközelítés lehetővé teszi a
+kiskereskedők számára, hogy pontosabban megértsék a fogyasztói magatartást, és testre szabott
+ajánlatokat nyújtsanak a vásárlóknak. (Asmare, 2022)
+5.1.3. Augmented reality (AR) és virtual reality (VR)
+Az AR és VR technológiák elterjedése a kiskereskedelmi szektorban elsősorban az új
+lehetőségek iránti igény, a technológia fejlődése és a fogyasztói magatartás változása miatt
+alakult ki. A mai fogyasztók mindenekelőtt a nagyszerű ügyfélélményre vágynak. Az elmúlt
+években a technológia gyors fejlődése lehetővé tette, hogy az AR és VR technológiák egyre
+elérhetőbbé és költséghatékonyabbá váljanak mind a vállalatok, mind a fogyasztók számára. A
+metaversum koncepciója, amely egy virtuális, immerszív és szociális világot ír le, ahol az
+emberek interakcióba léphetnek egymással és a környezettel, szintén jelentősen befolyásolta az
+AR és VR technológiák terjedését a kiskereskedelemben. A kiskereskedelmi szektorban számos
+példa található az AR és VR technológiák alkalmazására. Az IKEA Place nevű AR alkalmazás
+lehetővé teszi a felhasználók számára, hogy virtuálisan elhelyezzék az IKEA bútorokat saját
+otthonukban, így könnyebben el tudják dönteni, hogy az adott bútor illik-e otthonukba. Az
+alkalmazás segít a vásárlóknak jobb döntéseket hozni, és csökkenti a termék visszaküldésének
+valószínűségét. További példa még a Walmart és az Amazon, akik lehetővé tették a vásárlók
+
+11
+
+számára, hogy virtuálisan felpróbálják a ruhákat saját maguk digitális ábrázolásával. (Mar,
+2022)
+A fent említett példák rámutatnak, hogy az AR és VR technológiák számos különböző területen
+alkalmazhatók a kiskereskedelemben, és lehetővé teszik a vállalatok számára, hogy növeljék az
+ügyfelek elégedettségét, csökkentsék a visszaküldések számát, és egyedi vásárlói élményt
+nyújtsanak. A metaversum koncepciója további lehetőségeket kínál a kiskereskedelmi szektor
+számára, például virtuális események, közösségi vásárlás és személyre szabott ajánlatok révén.
+(Mar, 2022)
+5.1.4. Készpénzmentes, érintésmentes és autonóm vásárlás
+A digitális fizetési megoldások térhódítása a kiskereskedelemben egyre fokozódik, és az érintés
+nélküli technológiák elterjedése tovább erősíti ezt a trendet. A mobilfizetési platformok, például
+Apple Pay vagy Google Wallet. Ezek a mobilfizetési platformok lehetővé teszik a felhasználók
+számára, hogy gyorsan és egyszerűen fizessenek termékeikért és szolgáltatásaikért
+okostelefonjuk vagy okosórájuk segítségével. (Mar, 2022)
+Az érintés nélküli technológiák tovább egyszerűsítik és gyorsítják a fizetési folyamatokat, és
+lehetővé teszik a kiskereskedők számára, például azt, hogy kevesebb időt és energiát
+fordítsanak az adminisztratív feladatokra. Ilyen technológia például a rádiófrekvenciás
+azonosító (RFID) címk, mely ma már jelentős szerepet játszik az üzletek pénztárainak
+automatizálásában. Az RFID-címkék, ahogy a nevük is mutatja, olyan apró fémcsíkok, amelyek
+rádióhullámokat képesek továbbítani a rájuk erősített termékre vonatkozó részletes
+információkkal. Ezek olyan címkék, amelyek egy termékkel kapcsolatos információk széles
+skáláját képes tárolni: a márka, az ár, a méret, a szín, a boltban való elhelyezkedése, a
+származási helye, mely fontos az erősödő vásárlási tudatosság szempontjából. (Purdy, 2021)
+5.1.5. Fenntarthatóság és etikus vásárlás
+A fenntarthatóság és az etikus vásárlás egyre fontosabbá válik a fogyasztók számára. A
+vállalatokra nagyobb nyomás nehezedik annak biztosítása érdekében, hogy termékeik és üzleti
+gyakorlataik környezetbarátak és társadalmilag felelősek legyenek. Azok a szervezetek,
+amelyek sikeresen alkalmazkodnak ehhez a trendhez, azt tapasztalják, hogy gyorsan erősebb
+bizalmi és lojalitási kötelékeket építenek ki ügyfeleikkel, miközben gyakran hatékonyabb
+működést és folyamatokat is kialakítanak. Ezt egy vállalat elérheti például a felesleges
+csomagolással járó pazarlás csökkentésével és a energiafogyasztás mérséklésével. (Mar, 2022)
+
+12
+
+5.2.Látványos digitalizációs projektek a kiskereskedelemben
+A kiskereskedelemben a digitalizáció fontos eszköz a hatékonyság növelése és a vásárlói
+élmény javítása érdekében. Az elmúlt évtizedben számos látványos digitalizációs projektet
+valósítottak meg ebben az iparágban, melyek közül néhány sikeresen, míg mások kevésbé
+sikeresen zárultak. Az alábbiakban két sikeres és egy sikertelen digitalizációs projektet
+ismertetek a kiskereskedelemben.
+Az első sikeres példa az Amazon Go, amely forradalmian új kiskereskedelmi koncepciót
+vezetett be. Az Amazon Go üzletekben nincsenek pénztárosok vagy hagyományos fizetési
+módok. Ehelyett a vásárlók az Amazon Go alkalmazással belépnek az üzletbe, a polcról kivett
+termékeket pedig szenzorok és mesterséges intelligencia segítségével automatikusan rögzítik
+és hozzáadják a vásárlók virtuális kosarához. A vásárlás befejeztével az alkalmazás
+automatikusan felszámolja a vásárlást, így a fogyasztóknak nincs szükségük sorban állásra vagy
+kasszánál történő fizetésre. A rendszer nagymértékben támaszkodik az érzékelők fúziójára, a
+számítógépes látásra és a mélytanulási algoritmusokra. Az Amazon Go üzletek a vásárlói
+élményt gyorsabbá és gördülékenyebbé teszik, miközben csökkentik a munkaerőigényt és a
+hagyományos pénztárosi feladatokból eredő hibákat. (Polacco & Backes, 2018)
+Másik sikeres projektre példa az e-kereskedelmi óriás, az Alibaba által 2016-ban megnyitotta
+Hema üzlete. Ezen szupermarket lényege, hogy az online és offline vásárlás elemeit ötvözve
+
+zökkenőmentes élményt teremtsen meg. Az üzletben a vásárlók a termékeken található QR-
+kódokat beolvasva további információkat kaphatnak az adott árucikkről, többek között az
+
+élelmiszerek betakarításának, beszerzésének és szállításának pontos dátumát. A fizetés is
+történhet a Hema alkalmazáson keresztül, így a vásárlás gyors és kényelmes. Egy másik
+lenyűgöző elem a Hema üzleten belüli étkezési élménye, amelyet robotok működtetnek. A
+vásárlók a Hema applikáció segítségével helyet foglalhatnak egy asztalnál, valamint
+megrendelhetik a boltban elkészítendő ételeket. A robotok a polcokról a konyhába szállítják a
+termékeket, és amikor az ételek elkészülnek, robotok szállítják ki őket. (Wang & Coe, 2021)
+Sikertelen projektek közé tartozik a Walmart Pickup Towers rendszere. Egy olyan innovatív
+automatizált raktározási és kiszolgálási rendszer, amely a vásárlók számára gyors és kényelmes
+áruátvételi megoldást kínál az üzletekben. A rendszer célja, hogy megkönnyítse a vásárlók
+számára az online rendelések átvételét, miközben minimalizálja a várakozási időt és az
+interakciót az alkalmazottakkal. A Walmart 2021-ben végül úgy döntött, hogy leállítja a Pickup
+Towers programot. Ennek oka többek között az volt, hogy a vállalat újabb és hatékonyabb
+
+13
+
+áruátvételi megoldásokat keresett, amelyek jobban illeszkednek a vásárlók igényeihez és a
+vállalat üzleti modelljéhez. A Walmart például nagyobb hangsúlyt fektetett a parkolóban
+történő áruátvételre (curbside pickup), amely szintén gyors és kényelmes megoldást kínál az
+online rendelések átvételére, anélkül, hogy a vásárlóknak az üzletbe kellene menniük. (Verdon,
+2021)
+Az elemzett projektek alapján megállapítható, hogy a sikeres kiskereskedelmi digitalizációs
+projektek általában olyan innovatív megoldásokat kínálnak, amelyek valóban javítják a vásárlói
+élményt és növelik a hatékonyságot. Ugyanakkor a sikertelen projektek gyakran elbuknak a
+felhasználói elfogadás és a technológiai kihívások miatt. A jövőbeni digitalizációs projektek
+esetében fontos, hogy a vállalatok alaposan megvizsgálják a piaci igényeket, a technológiai
+lehetőségeket és a végfelhasználók elvárásait, mielőtt nagy volumenű beruházásokba kezdenek.
+6. Módszertan
+Az adatgyűjtés módszereként az interjúkészítést választottam. Azért ezt a kvalitatív
+módszertant találtam alkalmasnak, mivel kutatásom egy holisztikus képet kíván adni a
+kiskereskedelemben lezajló digitális átalakulásról és ehhez egy mélyebb szakértői tudás
+szükséges. A mélyinterjúkat a kiskereskedelmi szektor 2 jelentős vállalatának, a Lidl-nek és a
+Tesco-nak a szakembereivel készítettem el:
+• Borza Endre Márkkal, aki 2018 és 2021 között data scientist-ként dolgozott a Lidl-nél,
+és részt vett a kiosztást optimalizáló digitalizációs projektben
+• Törköly Tamással, aki Head of Center of Excellence & Lead Data Scientist a Lidl-nél
+• Szokolics Dániellel, aki Senior Data Scientist a Lidl-nél
+• Mészáros Zoltánnal, aki Transport Data Analyst a Tesco-nál
+Betekintést nyerhettem a magyar kiskereskedelmi szektorban zajló digitalizációs trendekbe,
+illetve azokba a kihívásokba, amelyekkel szembesülnek a kiskereskedők a digitálisátalakulás
+során.
+Az interjúk során megismerkedhettem a Lidl által egy back-end oldali, a Tesco által pedig egy
+front-end oldali digitalizációs projekt részleteivel is. A Lild-nél egy mesterséges intelligencia
+alapú fejlesztési projektbe, melynek célja a kiosztási mennyiségek optimalizálása. A Tesco által
+pedig a Club Card hűségprogramjuk működésébe.
+Az interjúk közvetlen megközelítés alapján zajlottak, azaz az alanyok tisztában voltak az interjú
+céljával és a szakdolgozat kutatásának témafelvetésével is. A beszélgetések online, illetve
+
+14
+
+offline történtek. A leghosszabb interjú 1,5 órás a legrövidebb pedig 40 perces volt. Az interjúk
+készítése során megpróbáltam az összeállított kérdéssorom mentén haladni, de ez sok esetben
+nem történt meg, így a beszélgetések inkább strukturálatlanul zajlottak, ez az egyik hátránya
+ennek a módszertannak. Viszont ebben rejlik ennek a módszernek az előnyei is, mint például a
+rugalmasság a beszélgetés során felmerülő új témákhoz és kérdésekhez, ami további
+információk megszerzését eredményezheti az interjúk során.
+6.1.A magyar kiskereskedelmi szektor bemutatása
+Az olyan tényezők, mint a lassuló és kiszámíthatatlan gazdasági növekedés, a csökkenő
+vásárlóerő, az öregedő népesség, a folyamatosan változó adó- és szabályozási környezetnek
+való megfelelés, a megváltozott fogyasztói magatartás vagy az éles verseny okozta árcsökkentő
+nyomás megnehezítik a kiskereskedelmi termékekkel foglalkozó vállalatok túlélését a mai
+gyorsan változó gazdasági környezetben. (pwc, n.d.)
+A KSH oldalán a legfrissebb helyzetkép a kiskereskedelemről 2021-es, mely szerint 2021-ben
+a kiskereskedelmi forgalom alakulására még mindig nagy hatással voltak a koronavírus járvány
+okozta egészségügyi veszélyhelyzettel összefüggésben az év során többször elrendelt, a
+kiskereskedelemre is vonatkozó jogi korlátozások. A kiskereskedelmi üzletek forgalomának
+értéke folyó áron 14,1 ezer milliárd forint volt, ami a kiskereskedelmi árak 7,3%-os növekedése
+mellett 3,4%-os volumennövekedést jelentett 2020-hoz képest. (KSH, 2021a)
+A KSH a magyar kiskereskedelmi szektort három nagyobb részre tagolja. Élelmiszer- és
+élelmiszer jellegű vegyes kiskereskedelemre, nem élelmiszer-kiskereskedelemre és
+üzemanyagtöltő állomásokra. A kutatásom szempontjából a számomra releváns szektor az
+élelmiszer- és élelmiszer jellegű vegyes kiskereskedelem. A Trade Magazin 2021-es
+kiskereskedelmi toplistája alapján ennek a szektornak a legfőbb szereplői, rangsorban a Lidl,
+Spar, Tesco, Coop, CBA, Auchan, Reál, Penny Market, Aldi és a DM (Trade Magazin, 2021).
+Digitális szempontból vizsgálva 2020-ban Magyarországon az infokommunikációs eszközök
+használatának elterjedtsége stagnál, ez az uniós átlaghoz viszonyítva is igaz. 2020-ban a hazai
+vállalkozások 94%-a rendelkezett internetkapcsolattal, viszont mindössze a 63%-uk
+rendelkezett saját honlappal, mellyel Magyarország az uniós rangsor alsó harmadában
+helyezkedik. A honlappal rendelkező magyar vállalkozások közül minden ötödik
+vállalkozásnál lehetséges a termékeik és szolgáltatásaik online megrendelése. A hazai
+vállalkozások teljes árbevételének 23%-a származott e-kereskedelemből. A vállalkozások 29%-
+a alkalmazott informatikai szakembert. (KSH, 2021b)
+
+15
+
+7. Elemzés
+7.1.A választott vállalatok rövid bemutatása
+Ebben a fejezetben először röviden ismertetem az általam választott kiskereskedelmi
+áruházláncokat, azaz a Lidl-t és a Tesco-t, és ezeknek a magyarországi és nemzetközi helyét a
+ranglistákon.
+7.1.1. Lidl rövid bemutatása
+A Lidl egy német nemzetközi kiskereskedelmi lánc, amely az élelmiszeripari diszkont áruházak
+szegmensében működik. A vállalatot 1930-ban alapította Josef Schwarz Németországban, és a
+Schwarz csoport részeként üzemel. A Lidl jelenleg több mint 30 országban van jelen,
+világszerte több mint 11 000 üzlettel. A vállalat 2004 óta van jelen Magyarországon. Mottójuk
+a „Minden jót, jó áron!”, ebben benne is van a versenystratégiájuk, ami nem más, mint az
+alacsony árak. (Lidl.hu, 2020)
+A Lidl-nek az egyik nagy üzleti fogása, hogy low-cost business modellt alkalmaznak, ami azt
+jelenti, hogy a működésük költségeit próbálják minimalizálni, ezáltal tudják az áraikat
+alacsonyan tartani (Meyersohn, 2019). A Pénzcentrum és a Debreceni Egyetem közös kutatása
+alapján, a magyar fogyasztók szerint a Lidl a legolcsóbb FMCG-hálózat 2023-ban
+Magyarországon (Szűcs & Szabó, 2023).
+A Lidl Trade Magazin 2021-es FMCG (gyorsan mozgó fogyasztási áruk) kiskereskedelmi
+láncok üzleti rangsorának 1. helyén állt bevétel és profit alapján (Trade Magazin, 2022). A
+statista 2023-as riportja alapján, a német Schwarz csoport 2021-ben Európa vezető
+kiskereskedője volt, mintegy 153,75 milliárd dollár értékű forgalommal (statista, 2023).
+7.1.2. Tesco rövid bemutatása
+A Tesco egy brit multinacionális kiskereskedelmi lánc, amely élelmiszereket, ruházatot,
+elektronikai termékeket és egyéb árukat értékesít. A cég 1919-ben alakult, amikor Jack Cohen
+megalapította azt Londonban. A Tesco az évek során jelentős növekedésen ment keresztül, és
+ma már az egyik legnagyobb kiskereskedelmi lánc a világon, több mint 6800 boltjával és
+
+számos országban jelenléttel, köztük az Egyesült Királyságban, Írországban, Közép- és Kelet-
+Európában, Ázsiában és egyéb régiókban. (GlobalData, n.d.)
+
+A Tesco több kiskereskedelmi formátumot is kínál, mint például hipermarketek,
+szupermarketek, diszkontáruházak és kisebb üzletek, hogy megfeleljen a különböző vásárlói
+igényeknek. A cég továbbá online értékesítést és házhozszállítást is kínál, és élelmiszer- és nem
+
+16
+
+élelmiszer-termékeket értékesít saját márkás termékekkel és más népszerű márkákkal egyaránt.
+(GlobalData, n.d.)
+A Lidl Trade Magazin 2021-es FMCG (gyorsan mozgó fogyasztási áruk) kiskereskedelmi
+láncok üzleti rangsorának 3. helyén állt bevétel és profit alapján (Trade Magazin, 2022). A
+statista 2023-as riportja alapján 2021-ben az Európai kiskereskedők rangsorának 4. helyén állt
+82,88 milliárd dollár értékű forgalommal (statista, 2023).
+7.2.Lidl digitalizációs projekt
+Törköly Tamás, Szokolics Dániel és Borza Endre által egy olyan mesterséges intelligencia
+alapú fejlesztés projektjébe nyerhettem betekintést, mely képes arra, hogy a diszponálási
+folyamatban, a beszállítói láncban történő emberi döntéseket, gépi döntésekkel, adott esetben
+helyettesítse vagy megtámogassa, ezzel is jelentősen csökkentve az áruveszteség mértékét. Ez
+a digitalizációs projekt 2019-ben elnyerte az év digitalizációs projektje díjat. (ivsz, 2019)
+A korábban ismertetett alacsony működési költségek miatt, nagyon érzékeny a Lidl rendszere
+és nagyon sokat képes bukni azon, ha ki kell dobnia termékeket vagy, ha valamiből túl kevés
+érkezik. Ahhoz, hogy az élelmiszer felesleg keletkezezését elkerülje a Lidl, szüksége van arra,
+hogy folyamatosan felügyelje, felülvizsgálja és optimalizálja a rendelési folyamatát.
+A Lidl-ben korábban úgy működött a berendelés folyamata, hogy az üzletvezetőnek volt
+egyfajta elképzelése a tapasztalatai és a látottak alapján, hogy miből mennyit kell berendelni és
+ezt az igényét elküldte egy raktárnak. Több ezer ilyen és hasonló döntést kell meghoznia az
+embereknek naponta egy olyan gyorsan változó környezetben, mint a kiskereskedelmi szektor.
+Az emberi döntésből származó hiba mértékét szeretné csökkenteni ez a döntést segítő fejlesztés.
+Ez a rendszer összegyűjti a Lidl nagy mennyiségű adatát azt, hogy melyik nap, miből, mennyi
+fogyott. Ezeket az összeszedett adatokat a rendszer kielemzi majd riportokat és előrejelzéseket
+készít. A fő feladata a fejlesztő csapatnak az volt, hogy kitalálják hogyan lehet több évre
+visszamenő rengeteg adatot lefordítani arra az egy információra, hogy holnap mennyi terméket
+küldjön a raktár a boltba. Ez az egyik legnehezebb feladat, hiszen maguk az adatok is fontosak,
+de magukban nem igazán lehet őket használni, ahhoz, hogy igazi érték jöjjön létre, ki kell őket
+elemezni, analizálni kell őket.
+Fontos üzleti szempont, hogy ennek az eszközöknek a használata milyen értékeket teremt a
+vállalatnak. Az egyik ilyen, hogy az élelmiszerhulladék-képződés csökkentése által a cég képes
+az ökológiai lábnyomát csökkenteni. A beszállítói lánc hatékonyságának növelése, a megfelelő
+
+17
+
+árukezelés által az egyes emberek munkafolyamatainak könnyítése és hatékonyabbá tétele is
+értéket teremt. Továbbá létrejött egy olyan központosított döntési mechanizmus, ami a teljes
+áruházlánc jólétére optimalizál és nem pedig boltonként egyesével. Ezek mellett azért is értékes
+ez az egész szféra és ez a technológia, mivel létre lett hozva egy olyan rendszer, aminek a
+fenntartása összességében nem annyira költséges és mondjuk azt, hogy 13 ezer ember
+mindennapi döntését tudja helyettesíteni. Az üzemeltetése sokkal kisebb költséggel jár, mint
+betanítani 13 ezer embert és annak az utódait arra, hogy hogyan kell gondolkozni, hogyan kell
+felmérni miből mennyi kellhet, észben tartani a kedvezményeket, az akciókat és az alapján
+mennyiségeket kalkulálni. Ezzel a döntést könnyítő rendszerrel hatalmas összegeket és időt tud
+spórolni a vállalat.
+7.3.Tesco digitalizációs projekt
+A kiskereskedelem versenyző világában a hűségprogramok döntő szerepet játszanak a vásárlók
+megtartásában és az eladások növelésében. A Tesco, az Egyesült Királyság legnagyobb
+szupermarketlánca úttörő szerepet játszott ezen a területen a népszerű Clubcard
+hűségprogramjával. A program célja, hogy előnyöket és kedvezményeket nyújtson a Tesco
+ügyfeleinek, miközben növeli a vásárlói lojalitást és elősegíti a hosszú távú
+ügyfélkapcsolatokat. (Humby et al., 2007)
+A Tesco Clubcard hűségprogram a Tesco áruházakban és az interneten történő minden
+vásárlásért jutalmazza a vásárlókat. Ezeket a pontokat különböző jutalmakra válthatja be,
+beleértve a jövőbeli vásárlásokból adható kedvezményeket is. Emellett a Tesco utazási
+partnerein keresztül éttermekre, mozikra, vidámparkokra, repülőjegyekre és szállodai
+tartózkodásra is beválthatók. A Clubcard pontokat a pénztárnál lehet gyűjteni a Clubcard
+használatával, vagy a Clubcardot egy online Tesco-fiókhoz kapcsolva.
+A Tesco Clubcard hűségprogram egyik egyedülálló jellemzője, hogy adatelemzéssel személyre
+szabja az ajánlatokat és jutalmakat minden egyes vásárló számára. Az egyes vásárlók vásárlási
+előzményeinek és vásárlási szokásainak elemzésével a Tesco a jutalmakat és promóciókat az ő
+egyedi érdeklődési körükhöz és preferenciáikhoz igazítja. Ha például egy vásárló gyakran
+vásárol babatermékeket, a Tesco személyre szabott ajánlatokat és kedvezményeket küldhet neki
+bébiételekre, pelenkákra és egyéb kapcsolódó termékekre. Ez nemcsak a vásárlói hűséget és
+elégedettséget növeli, hanem lehetővé teszi a Tesco számára, hogy jobban megértse és
+kielégítse vásárlói igényeit.
+
+18
+
+A Clubcard hűségprogram is ösztönzi a vásárlókat arra, hogy többet költsenek a Tesco
+áruházakban, mivel minden vásárlásért jutalmakat és kedvezményeket kínál. Nagyobb a
+valószínűsége annak is, hogy nagyobb összegű vásárlást hajtanak végre annak érdekében, hogy
+több pontot gyűjtsenek a jutalmak megszerzéséhez. Ez segített a Tesco-nak növelni eladásait és
+piaci részesedését, különösen a nagy verseny jellemezte élelmiszerpiacon.
+Az értékteremtés ebben a projektben abban rejlik, hogy a hűségprogram az értékesítés és a
+vásárlói hűség fokozása mellett értékes adatokat is szolgáltat a vállalat számára. A vásárlók
+vásárlási előzményeinek és vásárlási szokásainak elemzésével a Tesco azonosítani tudja a
+fogyasztói magatartás trendjeit és mintáit. Ezek a meglátások felhasználhatók a vállalat
+termékfejlesztési, marketing- és árképzési stratégiáinak kialakításához. A Tesco ezen adatok
+felhasználásával azonosítani és megcélozni is tud bizonyos vásárlói szegmenseket, például a
+kisgyermekes családokat, és ennek megfelelően alakíthatja marketing- és promóciós
+erőfeszítéseit.
+7.4.A digitalizációs projektek és az egész digitális átalakulás során, melyek a
+legnagyobb kihívások és ezeket hogyan lehet áthidalni
+7.4.1. Szervezeti kultúra
+Az interjúkban is felmerült, de a McKinsey 2017-es (Culture for a digital age) felméréséből is
+az derül ki, hogy a legnagyobb kihívást a digitális átalakulásban maga a kultúra jelenti a
+vállalatok számára. A digitális átalakulás sikere nagymértékben függ a szervezeti kultúra
+alkalmazkodóképességétől és nyitottságától. Egy digitális szervezeti kultúra olyan vállalati
+kultúra, amelyben a munkavállalók és a vezetők nyitottak az új technológiák és digitális
+megoldások alkalmazására, támogatják az innovációt, készek a változásra, és a folyamatos
+tanulásra törekszenek. (Goran et al., 2017)
+Törköly Tamás az interjújában kiemelte, hogy a digitális átalakulás nem tud kívülről, vagy
+alulról szerveződni. A vezetőségnek proaktívnak kell lennie a kultúra alakításában és
+mérésében, és ugyanolyan szigorúsággal és fegyelemmel kell hozzáállniuk, mint ahogyan a
+működési átalakításokat kezelik (Goran et al., 2017).
+7.4.2. Digitális tehetséghiány
+Nincs elegendő szakember a rendelkezésre álló munkaerőben, aki rendelkezik a szükséges
+digitális készségekkel és képességekkel. Ez a hiány különösen a digitális átalakulás és a
+technológiai fejlődés gyors üteme miatt válik egyre sürgetőbbé.
+
+19
+
+A digitális tehetség hiányának kezelése érdekében a vállalatoknak több lépést és stratégiát kell
+alkalmazniuk Többek között tréningekkel és fejlesztésekkel és tehetségmenedzsmenttel. Fontos
+azon emberek felvételével, akikbe megvan a megfelelő attitűd és hajlam a nyitottságra és a
+változásra., meg kell találniuk az „early adaptereket”.
+7.4.3. Üzleti célok
+A digitális átalakuláshoz egy jól meghatározott stratégia és erős vezetés szükséges, amely
+összhangban van a vállalat üzleti céljaival.
+A Lidl a sikerét abban látja, hogy már korán felismerte a digitalizáció fontosságát és már
+integráns részét képzi a stratégiájuknak.
+8. Konklúzió
+9. Hivatkozásjegyzék (hiányos és nem egységes)
+• Dix, A., Finlay, J., Abowd, G. D., & Beale, R. (2003). Human-computer interaction.
+Pearson Education.
+• Manning, C. D. (2009). An introduction to information retrieval. Cambridge university
+press.
+• Matyusz, Z., & Pistrui, B. (2020). Digitalizációs projektek a magyar kiskereskedelmi
+szektorban: Két meghatározó szegmens összehasonlítása empirikus példákon
+keresztül. Vezetéstudomány-Budapest Management Review, 51(6), 27-41.
+• Bush, V. (1945). As we may think. The atlantic monthly, 176(1), 101-108.
+• Negroponte, N., Harrington, R., McKay, S. R., & Christian, W. (1997). Being digital.
+Computers in Physics, 11(3), 261-262.
+• Singer, P. W., & Friedman, A. (2014). Cybersecurity: What everyone needs to know.
+oup usa.
+• Bloomberg, J. (2018). Digitization, digitalization, and digital transformation: confuse
+them at your peril. Forbes. Retrieved on August, 28, 2019.
+
+• Gobble, M. M. (2018). Digitalization, digitization, and innovation. Research-
+Technology Management, 61(4), 56-59.
+
+• https://www.investopedia.com/terms/o/onestopshop.asp
+• Reis, J., Amorim, M., Melão, N., & Matos, P. (2018). Digital transformation: a literature
+review and guidelines for future research. Trends and Advances in Information Systems
+and Technologies: Volume 1 6, 411-421.
+
+20
+
+• Ulas, D. (2019). Digital transformation process and SMEs. Procedia Computer
+Science, 158, 662-671.
+• (Pantano, E., & Vannucci, V. (2019). Who is innovating? An exploratory research of
+digital technologies diffusion in retail industry. Journal of Retailing and Consumer
+Services
+• Gupta, A. (2014). E-Commerce: Role of E-Commerce in today’s business. International
+Journal of Computing and Corporate Research, 4(1), 1-8.
+• Ferreira, M. J., Moreira, F., Pereira, C. S., & Durão, N. (2020). The digital
+transformation at organizations–the case of retail sector. In Trends and Innovations in
+Information Systems and Technologies: Volume 1 8 (pp. 560-567). Springer
+International Publishing.
+• (Bumann, J., & Peter, M. (2019). Action fields of digital transformation–a review and
+comparative analysis of digital transformation maturity models and frameworks)
+• Cai, Y. J., & Lo, C. K. (2020). Omni-channel management in the new retailing era: A
+systematic review and future research agenda. International Journal of Production
+Economics, 229, 107729.
+• https://www.pwc.com/hu/hu/iparagak/kiskereskedelem.html)
+
+• https://www.penzcentrum.hu/vasarlas/20230213/kiderult-ez-a-legolcsobb-
+elelmiszerlanc-2023-ban-magyarorszagon-1133868
+
+• KSH, 2021b:
+https://www.ksh.hu/docs/hun/xftp/idoszaki/ikt/2020/02/index.html#ahazaivllalkozsok
+ktharmadavanjelenonline
+• KSH, 2021a: https://ksh.hu/s/helyzetkep-2021/#/kiadvany/kiskereskedelem
+
+• https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-
+management-system
+
+• https://www.forbes.com/sites/googlecloud/2020/05/20/how-the-world-became-data-
+driven-and-whats-next/
+
+• Laney, D. (2001). 3D Data Management: Controlling Data Volume, Velocity and
+
+Variety. META Group Research Note. https://blogs.gartner.com/doug-
+laney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Velocity-
+and-Variety.pdf
+
+21
+
+• Har, L. L., Rashid, U. K., Te Chuan, L., Sen, S. C., & Xia, L. Y. (2022). Revolution of
+Retail Industry: From Perspective of Retail 1.0 to 4.0. Procedia Computer Science, 200,
+1615-1625.
+• https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-5g
+• https://www.investopedia.com/terms/h/hypermarket.asp
+• Das, S., Dey, A., Pal, A., & Roy, N. (2015). Applications of artificial intelligence in
+machine learning: review and prospect. International Journal of Computer
+Applications, 115(9).
+• Kotler, P., Keller, K. L., Ancarani, F., & Costabile, M. (2018). Marketing management
+(15th ed.). Pearson.
+• Hansen, T., Rasmussen, M. A., & Tussyadiah, I. (2021). The future of retailing: A
+systematic review and future research agenda. Journal of Retailing and Consumer
+Services, 62, 102665.
+• https://www2.deloitte.com/uk/en/pages/consumer-business/articles/retail-trends.html
+• Asmare, A., & Zewdie, S. (2022). Omnichannel retailing strategy: a systematic
+review. The International Review of Retail, Distribution and Consumer
+Research, 32(1), 59-79.
+
+• https://www.forbes.com/sites/bernardmarr/2022/10/14/the-top-five-retail-technology-
+trends-in-2023/
+
+• https://hbr.org/2021/11/the-future-of-contactless-commerce
+• Polacco, A., & Backes, K. (2018). The amazon go concept: Implications, applications,
+and sustainability. Journal of Business and Management, 24(1), 79-92.
+• Wang, Y., & Coe, N. M. (2021). Platform ecosystems and digital innovation in food
+retailing: Exploring the rise of Hema in China. Geoforum, 126, 310-321.
+
+• https://www.forbes.com/sites/joanverdon/2021/04/25/farewell-walmart-pickup-
+towers-your-short-life-was-not-in-vain/
+
+• https://www.globaldata.com/company-profile/tesco-plc/
+• Humby, C., Hunt, T., & Phillips, T. (2007). Scoring points: How Tesco continues to win
+customer loyalty. Kogan Page Publishers.
+
+• https://www.statista.com/statistics/192175/leading-10-retailers-of-europe-based-on-
+sales/
+
+22
+
+• Har, L. L., Rashid, U. K., Te Chuan, L., Sen, S. C., & Xia, L. Y. (2022). Revolution of
+Retail Industry: From Perspective of Retail 1.0 to 4.0. Procedia Computer Science, 200,
+1615-1625.
+• Frankenfield, J. (2021, szeptember 7). Cloud Computing. Investopedia.
+https://www.investopedia.com/terms/c/cloud-computing.asp
+• Hayes, A. (2020, december 2). Augmented Reality. Investopedia.
+https://www.investopedia.com/terms/a/augmented-reality.asp
+• Goran, J., LaBerge, L., & Srinivasan, R. (2017). Culture for a digital age. McKinsey
+Quarterly, 3(1), 56-67.
